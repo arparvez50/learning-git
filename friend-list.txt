@@ -1,6 +1,8 @@
-Mitchel Judian
-Kalvin Herosi
-Peter Orchid
-Ar rolin
-Rechard Powrel
-Hello Jain
+Name ---------- Phone number
+-----------------------------
+Mitchel Judian - 01910011001
+Kalvin Herosi - 01959625001
+Peter Orchid - 01910023659
+Ar rolin - 01910078965
+Rechard Powrel - 01910012548
+Hello Jain - 01910052963
